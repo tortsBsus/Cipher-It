@@ -1,4 +1,4 @@
-# CipherIt
+# Cipher It
 A Java based apllication which encrypts and decrypts file and text input using the Caesar, Substitution or DES algorithms
 
 ## Table of Contents
@@ -34,8 +34,10 @@ List the ready features here:
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+- Choose whether to encrypt or decrypt
+- Choose an algorithm
+- Choose how to take input
+- Provide input
 
 
 
